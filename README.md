@@ -1,5 +1,8 @@
 # Unemployment-Rate
 
+NOTE: Tableau file
+https://public.tableau.com/views/unemployment_rate_16825305292490/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 As an analyst, I'm excited to share my recent project exploring the unemployment rates in South Africa and Qatar between 2018 and 2021. 
 Through a combination of Python and Tableau,
 I was able to gather and analyze data on the maximum and minimum unemployment rates in both countries.
